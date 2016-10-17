@@ -8,8 +8,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        //  我的功能
+        setContentView(R.layout.activity_main);//  我的功能
 
         // 王林的分支
 
@@ -17,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
          *  董魁
          */
 
+        // 王世琦的分支
+        // 1231425465465
     }
 }
