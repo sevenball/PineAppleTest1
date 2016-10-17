@@ -6,6 +6,6 @@ package com.wangshiqi.pineapple1;
 public class Wanglin {
     // 王林
     {
-        // 董魁
+        // 哈哈董魁
     }
 }
